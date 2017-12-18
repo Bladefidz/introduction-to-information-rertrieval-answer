@@ -1,0 +1,3 @@
+## Exercise 1.13 {#exercise-1-13}
+
+Try using boolean search features on a couple of major web search engines. For instance, choose a word, such as burglar, and submit the queries (I) burglar, (ii) burglar AND burglar, and (iii) burglar OR burglar. Look at estimated number of results and top hits. Do they make sense in terms of Boolean logic? Often they have not for major search engines. Can you make sense of what is going on? What about if you try different words? For example, query for (I) knight. (ii) conquer, and then (iii) knight OR conquer. What bound should the number of results from the first two queries place on the third query? Is this bound observed?
